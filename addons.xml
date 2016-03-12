@@ -78,7 +78,7 @@
 	</extension>
 </addon>
 
-<addon id="script.ftvguideSpanish" name="FTV Guide Spanish" version="2.1.00" provider-name="rayw1986, bluezed, FreeNetCable">
+<addon id="script.ftvguideSpanish" name="FTV Guide Spanish" version="3.2.00" provider-name="rayw1986, bluezed, FreeNetCable">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
