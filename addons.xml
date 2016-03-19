@@ -217,20 +217,4 @@
     <description></description>
   </extension>
 </addon>
-
-<addon id="plugin.video.fncablebandw" name="Old Movies" version="1.2.11" provider-name="FnCable">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.module.urlresolver" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary></summary>
-    <description></description>
-  </extension>
-</addon>
 </addons>
